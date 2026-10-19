@@ -74,7 +74,7 @@ I value continuous learning, collaboration, and making technical concepts easier
 ## 📫 Connect With Me
 
 - **GitHub:** [@MalakMohamad](https://github.com/MalakMohamad)
-- **LinkedIn:** (linkedin.com/in/malak-belleh-yamani)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/malak-belleh-yamani/)
 
 
 ---
