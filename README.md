@@ -1,23 +1,24 @@
 # Assalamu Alaikum, Welcome to Malak Mohamad's Profile 👩🏻‍💻 🙌🏻
 
-🎓 **Computer Science Student | Data Science**
+🎓 **Computer Science Student | Data Science & Machine Learning**
 
 I'm a Computer Science student at Arab Open University with a **3.94/4.00 GPA**. I enjoy building practical software solutions, working with data, and exploring how technology can solve real-world problems.
 
-My experience includes Python, Java, SQL, mobile application development, and data preprocessing. I'm particularly interested in data science and machine learning, while continuing to strengthen my programming and software engineering skills through hands-on projects.
+My experience includes Python, Java, SQL, C#/.NET, mobile application development, and data preprocessing. I'm particularly interested in data science and machine learning, while continuing to strengthen my programming and software engineering skills through hands-on projects.
 
 One of my main projects is **Memora**, a graduation project that combines a mobile application with wearable technology to support people living with Alzheimer's disease and their caregivers.
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python, Java, SQL, Dart
+- **Programming Languages:** Python, Java, C#, SQL, Dart
 - **Data Analysis:** Pandas, data cleaning, data preprocessing, feature engineering
+- **Desktop Development:** .NET, Avalonia UI, XAML
 - **Mobile Development:** Flutter
 - **Databases:** MySQL, Firebase Firestore
-- **Tools:** Git, GitHub, Jupyter Notebook, Excel, Figma
-- **Core Concepts:** Object-oriented programming (OOP), data structures and algorithms, software design
+- **Tools:** Git, GitHub, Jupyter Notebook, Excel, Figma, JetBrains Rider
+- **Core Concepts:** Object-oriented programming (OOP), data structures and algorithms, event-driven programming, software design
 
-## 🚀 Featured Projects: 
+## 🚀 Featured Projects
 
 ### 🧹 [Data Cleaning and Preprocessing](https://github.com/MalakMohamad/Data_Cleaning)
 
@@ -54,11 +55,24 @@ The project received faculty nomination for the INJAZ Al-Arab competition.
 
 A Python implementation of the stack data structure, demonstrating the **Last In, First Out (LIFO)** principle.
 
+### 💻 [C# .NET Forms Practice](https://github.com/MalakMohamad/CSharpDotNetForms)
+
+A collection of C# and .NET desktop application exercises built with **Avalonia UI and XAML**, focusing on interactive interfaces and programming fundamentals.
+
+**Projects include:**
+- Payment method selection using radio buttons and event handling
+- Shopping cart calculations with student discounts
+- Restaurant order forms with item selection and takeaway fees
+- Interactive buttons, conditional logic, and UI control management
+
+**Concepts practised:** C# fundamentals, object-oriented programming, event-driven programming, conditional statements, UI controls, and desktop application development.
+
 ## 📚 Current Learning Goals
 
 - Strengthening Python and SQL fundamentals
 - Developing practical data analysis skills
 - Exploring machine learning concepts and workflows
+- Practising C#/.NET desktop development and object-oriented programming
 - Improving problem-solving and software engineering practices
 - Building well-documented projects that demonstrate practical skills
 
@@ -76,11 +90,10 @@ I value continuous learning, collaboration, and making technical concepts easier
 - **GitHub:** [@MalakMohamad](https://github.com/MalakMohamad)
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/malak-belleh-yamani/)
 
-
 ---
 
 > ⭐ "We can only see a short distance ahead, but we can see plenty there that needs to be done."
-> 
->   — **Alan Turing**
+>
+> — **Alan Turing**
 >
 > ⭐ *Always learning, building, and growing as a Computer Science professional.*
