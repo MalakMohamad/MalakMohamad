@@ -55,17 +55,16 @@ The project received faculty nomination for the INJAZ Al-Arab competition.
 
 A Python implementation of the stack data structure, demonstrating the **Last In, First Out (LIFO)** principle.
 
-### 💻 [C# .NET Forms Practice](https://github.com/MalakMohamad/CSharpDotNetForms)
+### 💻 [C#/.NET & Avalonia UI Practice](https://github.com/MalakMohamad/CSharpDotNetForms)
 
-A collection of C# and .NET desktop application exercises built with **Avalonia UI and XAML**, focusing on interactive interfaces and programming fundamentals.
+A collection of C# and .NET desktop application practice exercises completed during my COOP training. These exercises helped me develop hands-on experience with Avalonia UI, XAML, and event-driven desktop application development.
 
-**Projects include:**
-- Payment method selection using radio buttons and event handling
+**Practice projects include:**
+- Payment method selection and event handling
 - Shopping cart calculations with student discounts
 - Restaurant order forms with item selection and takeaway fees
-- Interactive buttons, conditional logic, and UI control management
 
-**Concepts practised:** C# fundamentals, object-oriented programming, event-driven programming, conditional statements, UI controls, and desktop application development.
+**Skills practised:** C# fundamentals, .NET, Avalonia UI, XAML, conditional logic, event handling, and UI control management.
 
 ## 📚 Current Learning Goals
 
