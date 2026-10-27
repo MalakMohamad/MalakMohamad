@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student | Data Science & Machine Learning**
 
-I'm a Computer Science student at Arab Open University with a **3.94/4.00 GPA**. I enjoy building practical software solutions, working with data, and exploring how technology can solve real-world problems.
+I'm a Computer Science student at Arab Open University. I enjoy building practical software solutions, working with data, and exploring how technology can solve real-world problems.
 
 My experience includes Python, Java, SQL, C#/.NET, mobile application development, and data preprocessing. I'm particularly interested in data science and machine learning, while continuing to strengthen my programming and software engineering skills through hands-on projects.
 
